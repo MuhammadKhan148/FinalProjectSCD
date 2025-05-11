@@ -5,6 +5,7 @@ metadata:
   namespace: scd-project
   labels:
     app: k8s-demo
+  # Trigger workflow run
 spec:
   replicas: 2
   selector:
@@ -17,7 +18,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: muhammad2604/scdproject:latest
+        image: Muhammad2604/k8s-demo-app:latest
         ports:
         - containerPort: 5000
         env:
