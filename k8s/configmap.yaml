@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: mern-app-config
-  namespace: mern-demo
+  namespace: scd-project
 data:
   NODE_ENV: "production"
   PORT: "5000"
