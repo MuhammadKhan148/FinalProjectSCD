@@ -15,7 +15,7 @@ COPY app/backend ./backend
 COPY app/frontend ./frontend
 
 # Set environment variable for React app
-ENV REACT_APP_API_URL=http://localhost:5000/api
+ENV REACT_APP_API_URL=/api
 
 # Build the frontend
 RUN cd frontend && npm run build
