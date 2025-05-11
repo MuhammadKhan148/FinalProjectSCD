@@ -19,7 +19,7 @@ jobs:
     - name: Set up Docker to use Minikube's environment
       run: |
         echo "Configuring Docker to use Minikube's daemon..."
-        & minikube -p minikube docker-env | Invoke-Expression
+        minikube docker-env --shell powershell | Invoke-Expression
 
     - name: Build Docker image
       run: |
@@ -45,8 +45,6 @@ jobs:
       run: |
         kubectl apply -f k8s/pvc.yaml
         kubectl apply -f k8s/configmap.yaml
-        kubectl apply -f k8s/mongodb-deployment.yaml
-        kubectl apply -f k8s/mongodb-service.yaml
         kubectl apply -f k8s/deployment.yaml
         kubectl apply -f k8s/service.yaml
         echo "Deployed to Minikube"
