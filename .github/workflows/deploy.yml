@@ -1,4 +1,4 @@
-name: Build and Deploy to Minikube
+﻿name: Build and Deploy to Minikube
 
 on:
   push:
