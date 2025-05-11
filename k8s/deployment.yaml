@@ -18,8 +18,8 @@ spec:
     spec:
       containers:
       - name: app
-        image: k8s-demo-app:latest
-        imagePullPolicy: Never
+        image: muhammad2604/k8s-demo-app:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 5000
         envFrom:
