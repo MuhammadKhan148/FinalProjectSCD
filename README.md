@@ -1,10 +1,28 @@
-# SCD Project
-## Kubernetes Deployment with GitHub Actions
+# SCD Project - Kubernetes with GitHub Actions
 
-This project demonstrates Kubernetes deployment using GitHub Actions.
+A Kubernetes deployment with GitHub Actions CI/CD pipeline.
 
-## Important Update - May 2025
-This project has been updated to include GitHub Actions for CI/CD integration.
+## Features
+- MERN stack application
+- Containerized with Docker
+- Deployed to Minikube
+- CI/CD with GitHub Actions
+- MongoDB database
+
+## Important Note
+To run this project successfully, make sure to set up Docker Hub credentials in GitHub repository secrets:
+- DOCKER_USERNAME: Your Docker Hub username
+- DOCKER_PASSWORD: Your Docker Hub password or access token
+
+## Docker Hub Setup
+Make sure to add your Docker Hub credentials to GitHub secrets.
+
+## Workflow Trigger
+This line was added to trigger the GitHub Actions workflow - updated on [May 12, 2025].
+Triggering workflow run to test Docker Hub authentication - [Timestamp: May 13, 2025].
+
+## Testing the Workflow
+This commit is to test the GitHub Actions workflow.
 
 # Kubernetes Deployment Project
 
