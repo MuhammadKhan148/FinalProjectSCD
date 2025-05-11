@@ -1,3 +1,11 @@
+# SCD Project
+## Kubernetes Deployment with GitHub Actions
+
+This project demonstrates Kubernetes deployment using GitHub Actions.
+
+## Important Update - May 2025
+This project has been updated to include GitHub Actions for CI/CD integration.
+
 # Kubernetes Deployment Project
 
 This project demonstrates how to set up a web application using Kubernetes with Minikube, implementing a CI/CD pipeline using GitHub Actions.
