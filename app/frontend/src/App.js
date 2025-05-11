@@ -4,9 +4,8 @@ import { Bar } from 'react-chartjs-2';
 import { Chart, registerables } from 'chart.js';
 Chart.register(...registerables);
 
-// Get the API URL from environment or default to localhost
-// Try different URLs if connection fails
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001/api';
+// Get the API URL from environment or use service name in Kubernetes
+const API_URL = process.env.REACT_APP_API_URL || '/api';
 console.log('Using API URL:', API_URL);
 
 // Configure axios defaults for CORS compatibility
