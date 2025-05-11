@@ -19,7 +19,7 @@ jobs:
     - name: Set up Docker to use Minikube's environment
       run: |
         echo "Configuring Docker to use Minikube's daemon..."
-        eval $(minikube docker-env)
+        & minikube -p minikube docker-env | Invoke-Expression
 
     - name: Build Docker image
       run: |
@@ -60,4 +60,5 @@ jobs:
     - name: Show application URL
       run: |
         echo "Your application is available at:"
-        minikube service -n scd-project k8s-demo-service --url 
+        minikube service -n scd-project k8s-demo-service --url
+        echo "Note: For local access, use 'kubectl port-forward -n scd-project svc/k8s-demo-service 8080:80'"
