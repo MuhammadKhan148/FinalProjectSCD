@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "MuhammadKhan148/FinalProjectSCD",
+  "pipelineDirectory": "FinalProjectSCD",
+  "workspaceDirectory": "FinalProjectSCD\\FinalProjectSCD",
+  "repositories": {
+    "MuhammadKhan148/FinalProjectSCD": {
+      "repositoryPath": "FinalProjectSCD\\FinalProjectSCD",
+      "lastRunOn": "05/11/2025 23:40:35 +05:00"
+    }
+  },
+  "lastRunOn": "05/11/2025 23:45:29 +05:00"
+}

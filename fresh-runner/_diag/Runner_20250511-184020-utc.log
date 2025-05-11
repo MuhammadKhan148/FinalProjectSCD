@@ -1,0 +1,428 @@
+[2025-05-11 18:40:20Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.runner'
+[2025-05-11 18:40:20Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-05-11 18:40:20Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2025-05-11 18:40:20Z INFO Listener] Version: 2.323.0
+[2025-05-11 18:40:20Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-05-11 18:40:20Z INFO Listener] Culture: en-US
+[2025-05-11 18:40:20Z INFO Listener] UI Culture: en-US
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO Listener] Validating directory permissions for: 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO CommandLineParser] Parse
+[2025-05-11 18:40:20Z INFO CommandLineParser] Parsing 1 args
+[2025-05-11 18:40:20Z INFO CommandLineParser] parsing argument
+[2025-05-11 18:40:20Z INFO CommandLineParser] HasArgs: False
+[2025-05-11 18:40:20Z INFO CommandLineParser] Adding Command: run
+[2025-05-11 18:40:20Z INFO Listener] Arguments parsed
+[2025-05-11 18:40:20Z INFO Runner] ExecuteCommand
+[2025-05-11 18:40:20Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Listener.dll
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] binPath: C:\Users\Amazi\Documents\SCD project\fresh-runner\bin
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] RootFolder: C:\Users\Amazi\Documents\SCD project\fresh-runner
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.runner'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Amazi\Documents\SCD project\fresh-runner\.runner
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.runner_migrated'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\Amazi\Documents\SCD project\fresh-runner\.runner_migrated
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] CredFilePath: C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_migrated'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_migrated
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'Service': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.service'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Amazi\Documents\SCD project\fresh-runner\.service
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'help': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'version': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'check': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Command 'configure': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Command 'remove': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-05-11 18:40:20Z INFO ConfigurationManager] LoadSettings
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured()
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-11 18:40:20Z INFO ConfigurationManager] Is configured: True
+[2025-05-11 18:40:20Z INFO ConfigurationStore] Read setting file: 322 chars
+[2025-05-11 18:40:20Z INFO ConfigurationManager] Settings Loaded
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-11 18:40:20Z INFO CommandSettings] Command 'run': 'True'
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured()
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-11 18:40:20Z INFO ConfigurationManager] Is configured: True
+[2025-05-11 18:40:20Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-05-11 18:40:20Z INFO Runner] Set runner startup type - Manual
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-11 18:40:20Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-11 18:40:20Z INFO Runner] RunAsync
+[2025-05-11 18:40:20Z INFO ConfigurationManager] LoadSettings
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured()
+[2025-05-11 18:40:20Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-11 18:40:20Z INFO ConfigurationManager] Is configured: True
+[2025-05-11 18:40:20Z INFO ConfigurationManager] Settings Loaded
+[2025-05-11 18:40:20Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "LAPTOP-CH0F0I54",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/HmxB90hCD5oC6wd3pu1DQCLKqOVZqtrVBUFOv5EGzieDFbmJ00/",
+  "GitHubUrl": "https://github.com/MuhammadKhan148/FinalProjectSCD",
+  "WorkFolder": "_work"
+}
+[2025-05-11 18:40:20Z INFO MessageListener] Loading Credentials
+[2025-05-11 18:40:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:40:20Z INFO ConfigurationStore] stored True
+[2025-05-11 18:40:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:40:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:40:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:20Z INFO HostContext] Well known directory 'Root': 'C:\Users\Amazi\Documents\SCD project\fresh-runner'
+[2025-05-11 18:40:20Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams'
+[2025-05-11 18:40:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:20Z INFO MessageListener] Attempt to create session.
+[2025-05-11 18:40:20Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-11 18:40:20Z INFO RunnerServer] EstablishVssConnection
+[2025-05-11 18:40:20Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-11 18:40:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-11 18:40:20Z INFO RunnerServer] EstablishVssConnection
+[2025-05-11 18:40:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-11 18:40:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-11 18:40:20Z INFO RunnerServer] EstablishVssConnection
+[2025-05-11 18:40:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-11 18:40:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-11 18:40:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-11 18:40:23Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-11 18:40:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-11 18:40:24Z INFO MessageListener] VssConnection created
+[2025-05-11 18:40:24Z INFO Terminal] WRITE LINE: 
+[2025-05-11 18:40:24Z INFO Terminal] WRITE LINE: 
+[2025-05-11 18:40:25Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:25Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:26Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:40:26Z INFO MessageListener] Session created.
+[2025-05-11 18:40:26Z INFO Terminal] WRITE LINE: Current runner version: '2.323.0'
+[2025-05-11 18:40:26Z INFO Terminal] WRITE LINE: 2025-05-11 18:40:26Z: Listening for Jobs
+[2025-05-11 18:40:26Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-05-11 18:40:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:28Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:40:30Z INFO MessageListener] Message '6344493384889436213' received from session '1b2ac0f0-0335-49e8-9374-4178d4452810'.
+[2025-05-11 18:40:30Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:40:30Z INFO ConfigurationStore] stored True
+[2025-05-11 18:40:30Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:40:30Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:40:30Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:40:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:40:32Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:40:34Z INFO JobDispatcher] Job request 0 for plan 7484f01c-4069-47f3-a867-9b034dc44129 job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4 received.
+[2025-05-11 18:40:34Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-11 18:40:34Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:40:34Z INFO Terminal] WRITE LINE: 2025-05-11 18:40:34Z: Running job: build-deploy
+[2025-05-11 18:40:34Z INFO JobDispatcher] Start renew job request 0 for job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4.
+[2025-05-11 18:40:35Z INFO JobDispatcher] Successfully renew job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4, job is valid till 5/11/2025 6:50:34 PM
+[2025-05-11 18:40:35Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Worker.exe'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2344 2356'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-11 18:40:35Z INFO ProcessInvokerWrapper] Process started with process id 23648, waiting for process exit.
+[2025-05-11 18:40:35Z INFO JobDispatcher] Send job request message to worker for job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4.
+[2025-05-11 18:40:35Z INFO ProcessChannel] Sending message of length 22632, with hash '96d3d0138748f3f3ea6accfc8a53caa7b7fc87b05c2e0e9b7d72119275c0d5fd'
+[2025-05-11 18:40:35Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-11 18:40:35Z INFO JobNotification] Entering StartMonitor
+[2025-05-11 18:41:35Z INFO JobDispatcher] Successfully renew job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4, job is valid till 5/11/2025 6:51:35 PM
+[2025-05-11 18:42:31Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:42:31Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:42:31Z INFO ProcessInvokerWrapper] Finished process 23648 with exit code 102, and elapsed time 00:01:56.5210660.
+[2025-05-11 18:42:31Z INFO JobDispatcher] Worker finished for job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4. Code: 102
+[2025-05-11 18:42:31Z INFO JobDispatcher] finish job request for job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4 with result: Failed
+[2025-05-11 18:42:31Z INFO Terminal] WRITE LINE: 2025-05-11 18:42:31Z: Job build-deploy completed with result: Failed
+[2025-05-11 18:42:31Z INFO JobDispatcher] Stop renew job request for job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4.
+[2025-05-11 18:42:31Z INFO JobDispatcher] job renew has been cancelled, stop renew job bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4.
+[2025-05-11 18:42:31Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-11 18:42:31Z INFO JobNotification] Entering EndMonitor
+[2025-05-11 18:42:31Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-11 18:42:32Z INFO MessageListener] Message '5200080929109503399' received from session '1b2ac0f0-0335-49e8-9374-4178d4452810'.
+[2025-05-11 18:42:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:42:32Z INFO ConfigurationStore] stored True
+[2025-05-11 18:42:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:42:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:42:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:42:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:42:35Z INFO JobDispatcher] Job request 0 for plan c2c457ec-19cd-4c3e-91ee-e2522935c11a job 3b849d2b-b629-58ba-8480-b876af11f94a received.
+[2025-05-11 18:42:35Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-11 18:42:35Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:42:35Z INFO JobDispatcher] Job request bbc5fa71-6f82-54d3-a7b8-efb2943ba6f4 processed succeed.
+[2025-05-11 18:42:35Z INFO Terminal] WRITE LINE: 2025-05-11 18:42:35Z: Running job: hello
+[2025-05-11 18:42:35Z INFO JobDispatcher] Start renew job request 0 for job 3b849d2b-b629-58ba-8480-b876af11f94a.
+[2025-05-11 18:42:36Z INFO JobDispatcher] Successfully renew job 3b849d2b-b629-58ba-8480-b876af11f94a, job is valid till 5/11/2025 6:52:36 PM
+[2025-05-11 18:42:36Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Worker.exe'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1672 2472'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-11 18:42:36Z INFO ProcessInvokerWrapper] Process started with process id 25856, waiting for process exit.
+[2025-05-11 18:42:36Z INFO JobDispatcher] Send job request message to worker for job 3b849d2b-b629-58ba-8480-b876af11f94a.
+[2025-05-11 18:42:36Z INFO ProcessChannel] Sending message of length 18737, with hash '7d2ef38ac596861586c18ba4468018deceb766168cf6c0fea1d2ddcaf02c89ca'
+[2025-05-11 18:42:37Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-11 18:42:37Z INFO JobNotification] Entering StartMonitor
+[2025-05-11 18:42:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:42:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:42:47Z INFO ProcessInvokerWrapper] Finished process 25856 with exit code 100, and elapsed time 00:00:10.9555335.
+[2025-05-11 18:42:47Z INFO JobDispatcher] Worker finished for job 3b849d2b-b629-58ba-8480-b876af11f94a. Code: 100
+[2025-05-11 18:42:47Z INFO JobDispatcher] finish job request for job 3b849d2b-b629-58ba-8480-b876af11f94a with result: Succeeded
+[2025-05-11 18:42:47Z INFO Terminal] WRITE LINE: 2025-05-11 18:42:47Z: Job hello completed with result: Succeeded
+[2025-05-11 18:42:47Z INFO JobDispatcher] Stop renew job request for job 3b849d2b-b629-58ba-8480-b876af11f94a.
+[2025-05-11 18:42:47Z INFO JobDispatcher] job renew has been cancelled, stop renew job 3b849d2b-b629-58ba-8480-b876af11f94a.
+[2025-05-11 18:42:47Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-11 18:42:47Z INFO JobNotification] Entering EndMonitor
+[2025-05-11 18:42:47Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-11 18:42:48Z INFO MessageListener] Message '8091932423229313972' received from session '1b2ac0f0-0335-49e8-9374-4178d4452810'.
+[2025-05-11 18:42:48Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:42:48Z INFO ConfigurationStore] stored True
+[2025-05-11 18:42:48Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:42:48Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:42:48Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:42:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:42:49Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:42:51Z INFO JobDispatcher] Job request 0 for plan bb6539f5-97f0-4539-9f47-87cfd821bd3d job 593e76e8-cd21-541b-b975-8b00037d5982 received.
+[2025-05-11 18:42:51Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-11 18:42:51Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:42:51Z INFO JobDispatcher] Job request 3b849d2b-b629-58ba-8480-b876af11f94a processed succeed.
+[2025-05-11 18:42:51Z INFO Terminal] WRITE LINE: 2025-05-11 18:42:51Z: Running job: build-deploy
+[2025-05-11 18:42:51Z INFO JobDispatcher] Start renew job request 0 for job 593e76e8-cd21-541b-b975-8b00037d5982.
+[2025-05-11 18:42:52Z INFO JobDispatcher] Successfully renew job 593e76e8-cd21-541b-b975-8b00037d5982, job is valid till 5/11/2025 6:52:52 PM
+[2025-05-11 18:42:52Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Worker.exe'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2448 1188'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-11 18:42:52Z INFO ProcessInvokerWrapper] Process started with process id 23588, waiting for process exit.
+[2025-05-11 18:42:52Z INFO JobDispatcher] Send job request message to worker for job 593e76e8-cd21-541b-b975-8b00037d5982.
+[2025-05-11 18:42:52Z INFO ProcessChannel] Sending message of length 21674, with hash '61c201a3da0fffd7343c1ad727e8b378b6c96972c7696912a9a2af66330596cf'
+[2025-05-11 18:42:53Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-11 18:42:53Z INFO JobNotification] Entering StartMonitor
+[2025-05-11 18:43:53Z INFO JobDispatcher] Successfully renew job 593e76e8-cd21-541b-b975-8b00037d5982, job is valid till 5/11/2025 6:53:52 PM
+[2025-05-11 18:44:53Z INFO JobDispatcher] Successfully renew job 593e76e8-cd21-541b-b975-8b00037d5982, job is valid till 5/11/2025 6:54:53 PM
+[2025-05-11 18:45:09Z INFO MessageListener] Message '1429924980644848933' received from session '1b2ac0f0-0335-49e8-9374-4178d4452810'.
+[2025-05-11 18:45:09Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:45:09Z INFO ConfigurationStore] stored True
+[2025-05-11 18:45:09Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:45:09Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:45:09Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:45:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:45:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:45:09Z INFO ProcessInvokerWrapper] Finished process 23588 with exit code 102, and elapsed time 00:02:17.1551836.
+[2025-05-11 18:45:09Z INFO JobDispatcher] Worker finished for job 593e76e8-cd21-541b-b975-8b00037d5982. Code: 102
+[2025-05-11 18:45:09Z INFO JobDispatcher] finish job request for job 593e76e8-cd21-541b-b975-8b00037d5982 with result: Failed
+[2025-05-11 18:45:09Z INFO Terminal] WRITE LINE: 2025-05-11 18:45:09Z: Job build-deploy completed with result: Failed
+[2025-05-11 18:45:09Z INFO JobDispatcher] Stop renew job request for job 593e76e8-cd21-541b-b975-8b00037d5982.
+[2025-05-11 18:45:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job 593e76e8-cd21-541b-b975-8b00037d5982.
+[2025-05-11 18:45:09Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-11 18:45:09Z INFO JobNotification] Entering EndMonitor
+[2025-05-11 18:45:09Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-11 18:45:09Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:45:10Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:45:12Z INFO JobDispatcher] Job request 0 for plan 8c0a55c9-3940-4f80-b7b2-821775a32a3b job a44a41a7-d35b-5136-bb6c-3b61c5eecb10 received.
+[2025-05-11 18:45:12Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-11 18:45:12Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:45:12Z INFO JobDispatcher] Job request 593e76e8-cd21-541b-b975-8b00037d5982 processed succeed.
+[2025-05-11 18:45:12Z INFO Terminal] WRITE LINE: 2025-05-11 18:45:12Z: Running job: hello
+[2025-05-11 18:45:12Z INFO JobDispatcher] Start renew job request 0 for job a44a41a7-d35b-5136-bb6c-3b61c5eecb10.
+[2025-05-11 18:45:13Z INFO JobDispatcher] Successfully renew job a44a41a7-d35b-5136-bb6c-3b61c5eecb10, job is valid till 5/11/2025 6:55:12 PM
+[2025-05-11 18:45:13Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Worker.exe'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1464 1456'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-11 18:45:13Z INFO ProcessInvokerWrapper] Process started with process id 23816, waiting for process exit.
+[2025-05-11 18:45:13Z INFO JobDispatcher] Send job request message to worker for job a44a41a7-d35b-5136-bb6c-3b61c5eecb10.
+[2025-05-11 18:45:13Z INFO ProcessChannel] Sending message of length 18755, with hash '7281ee3b97b1ccffb5010cd952b8db494d916eebd5251a25be53e6ad08a19003'
+[2025-05-11 18:45:13Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-11 18:45:13Z INFO JobNotification] Entering StartMonitor
+[2025-05-11 18:45:23Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:45:23Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:45:23Z INFO ProcessInvokerWrapper] Finished process 23816 with exit code 100, and elapsed time 00:00:10.5882589.
+[2025-05-11 18:45:23Z INFO JobDispatcher] Worker finished for job a44a41a7-d35b-5136-bb6c-3b61c5eecb10. Code: 100
+[2025-05-11 18:45:23Z INFO JobDispatcher] finish job request for job a44a41a7-d35b-5136-bb6c-3b61c5eecb10 with result: Succeeded
+[2025-05-11 18:45:23Z INFO Terminal] WRITE LINE: 2025-05-11 18:45:23Z: Job hello completed with result: Succeeded
+[2025-05-11 18:45:23Z INFO JobDispatcher] Stop renew job request for job a44a41a7-d35b-5136-bb6c-3b61c5eecb10.
+[2025-05-11 18:45:23Z INFO JobDispatcher] job renew has been cancelled, stop renew job a44a41a7-d35b-5136-bb6c-3b61c5eecb10.
+[2025-05-11 18:45:23Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-11 18:45:23Z INFO JobNotification] Entering EndMonitor
+[2025-05-11 18:45:23Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-11 18:45:24Z INFO MessageListener] Message '2684119058669368134' received from session '1b2ac0f0-0335-49e8-9374-4178d4452810'.
+[2025-05-11 18:45:24Z INFO ConfigurationStore] HasCredentials()
+[2025-05-11 18:45:24Z INFO ConfigurationStore] stored True
+[2025-05-11 18:45:24Z INFO CredentialManager] GetCredentialProvider
+[2025-05-11 18:45:24Z INFO CredentialManager] Creating type OAuth
+[2025-05-11 18:45:24Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-11 18:45:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Amazi\Documents\SCD project\fresh-runner\.credentials_rsaparams
+[2025-05-11 18:45:25Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-11 18:45:27Z INFO JobDispatcher] Job request 0 for plan 145a78e5-5d14-46a3-815e-c3d60602f333 job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c received.
+[2025-05-11 18:45:27Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-11 18:45:27Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-11 18:45:27Z INFO JobDispatcher] Job request a44a41a7-d35b-5136-bb6c-3b61c5eecb10 processed succeed.
+[2025-05-11 18:45:27Z INFO Terminal] WRITE LINE: 2025-05-11 18:45:27Z: Running job: build-deploy
+[2025-05-11 18:45:27Z INFO JobDispatcher] Start renew job request 0 for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c.
+[2025-05-11 18:45:28Z INFO JobDispatcher] Successfully renew job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c, job is valid till 5/11/2025 6:55:28 PM
+[2025-05-11 18:45:28Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin\Runner.Worker.exe'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2612 2176'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Amazi\Documents\SCD project\fresh-runner\bin'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-11 18:45:28Z INFO ProcessInvokerWrapper] Process started with process id 22504, waiting for process exit.
+[2025-05-11 18:45:28Z INFO JobDispatcher] Send job request message to worker for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c.
+[2025-05-11 18:45:28Z INFO ProcessChannel] Sending message of length 21691, with hash '2724e53a2974204e78e46f606a0e3a22888829f952b28dbd0aa57ceb8c70eff5'
+[2025-05-11 18:45:29Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-11 18:45:29Z INFO JobNotification] Entering StartMonitor
+[2025-05-11 18:46:29Z INFO JobDispatcher] Successfully renew job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c, job is valid till 5/11/2025 6:56:28 PM
+[2025-05-11 18:47:29Z INFO JobDispatcher] Successfully renew job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c, job is valid till 5/11/2025 6:57:28 PM
+[2025-05-11 18:47:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:47:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-11 18:47:40Z INFO ProcessInvokerWrapper] Finished process 22504 with exit code 102, and elapsed time 00:02:11.4124191.
+[2025-05-11 18:47:40Z INFO JobDispatcher] Worker finished for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c. Code: 102
+[2025-05-11 18:47:40Z INFO JobDispatcher] finish job request for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c with result: Failed
+[2025-05-11 18:47:40Z INFO Terminal] WRITE LINE: 2025-05-11 18:47:40Z: Job build-deploy completed with result: Failed
+[2025-05-11 18:47:40Z INFO JobDispatcher] Stop renew job request for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c.
+[2025-05-11 18:47:40Z INFO JobDispatcher] job renew has been cancelled, stop renew job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c.
+[2025-05-11 18:47:40Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-11 18:47:40Z INFO JobNotification] Entering EndMonitor
+[2025-05-11 18:47:40Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-11 18:49:34Z INFO Terminal] WRITE LINE: Exiting...
+[2025-05-11 18:49:34Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-11 18:49:34Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-11 18:49:34Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-05-11 18:49:34Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=1b2ac0f0-0335-49e8-9374-4178d4452810&status=Online&runnerVersion=2.323.0&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2025-05-11 18:49:34Z ERR  BrokerServer] Catch exception during request
+[2025-05-11 18:49:34Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2025-05-11 18:49:34Z ERR  BrokerServer] #####################################################
+[2025-05-11 18:49:34Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2025-05-11 18:49:34Z ERR  BrokerServer] #####################################################
+[2025-05-11 18:49:34Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2025-05-11 18:49:34Z ERR  BrokerServer] #####################################################
+[2025-05-11 18:49:34Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2025-05-11 18:49:34Z WARN BrokerServer] Back off 11.114 seconds before next retry. 4 attempt left.
+[2025-05-11 18:49:34Z INFO MessageListener] Get next message has been cancelled.
+[2025-05-11 18:49:34Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-05-11 18:49:34Z INFO JobDispatcher] Ensure WorkerDispatcher for job fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c run to finish, cancel any running job.
+[2025-05-11 18:49:34Z INFO JobDispatcher] Job request fc8d7f79-0b5a-5137-bb12-2db3aa57dc6c processed succeed.
+[2025-05-11 18:49:34Z INFO Runner] Deleting Runner Session...
+[2025-05-11 18:49:35Z INFO Listener] Runner execution been cancelled.
