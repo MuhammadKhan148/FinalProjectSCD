@@ -18,7 +18,8 @@ spec:
     spec:
       containers:
       - name: app
-        image: ${DOCKER_USERNAME}/k8s-demo-app:latest
+        image: k8s-demo-app:latest
+        imagePullPolicy: Never
         ports:
         - containerPort: 5000
         env:
