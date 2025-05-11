@@ -23,18 +23,42 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t muhammad2604/k8s-demo-app:latest .
+        # Build with tag for both local and remote use
+        docker build -t k8s-demo-app:latest .
+        docker tag k8s-demo-app:latest muhammad2604/k8s-demo-app:latest
         echo "Docker image built successfully"
 
     - name: Login to Docker Hub
       run: |
-        echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
-        echo "Logged in to Docker Hub"
+        # Direct login approach for PowerShell
+        docker login -u "${{ secrets.DOCKER_USERNAME }}" -p "${{ secrets.DOCKER_PASSWORD }}"
+        
+        # If this works, echo success
+        if ($?) {
+          echo "Successfully logged in to Docker Hub"
+        } else {
+          echo "Docker login failed, proceeding with local deployment"
+        }
 
     - name: Push Docker image to Docker Hub
       run: |
+        # Try to push, but continue even if it fails
         docker push muhammad2604/k8s-demo-app:latest
-        echo "Docker image pushed to Docker Hub"
+        
+        # Check if push succeeded
+        if ($?) {
+          echo "Docker image pushed to Docker Hub successfully"
+        } else {
+          echo "Couldn't push to Docker Hub, will use local image instead"
+          # Update deployment to use local image if push failed
+          (Get-Content k8s/deployment.yaml) -replace 'image: muhammad2604/k8s-demo-app:latest', 'image: k8s-demo-app:latest' | Set-Content k8s/deployment.yaml
+          (Get-Content k8s/deployment.yaml) -replace 'imagePullPolicy: Always', 'imagePullPolicy: Never' | Set-Content k8s/deployment.yaml
+        }
+
+    - name: Ensure Minikube can access images
+      run: |
+        # Make sure Minikube can see the local images
+        minikube image load k8s-demo-app:latest --daemon=false || echo "Image loading not needed"
 
     - name: Create namespace if not exists
       run: |
@@ -43,8 +67,9 @@ jobs:
 
     - name: Deploy to Minikube
       run: |
-        kubectl apply -f k8s/pvc.yaml
+        kubectl apply -f k8s/namespace.yaml
         kubectl apply -f k8s/configmap.yaml
+        kubectl apply -f k8s/pvc.yaml
         kubectl apply -f k8s/deployment.yaml
         kubectl apply -f k8s/service.yaml
         echo "Deployed to Minikube"
