@@ -4,12 +4,9 @@ on:
   push:
     branches:
       - main
-      - master
   pull_request:
     branches:
       - main
-      - master
-  workflow_dispatch:
 
 jobs:
   build-deploy:
@@ -46,13 +43,6 @@ jobs:
     - name: Show application URL
       run: |
         echo "Your application is available at:"
-        # Run for max 5 seconds then terminate
-        $processInfo = Start-Process -FilePath "minikube" -ArgumentList "service -n scd-project k8s-demo-service --url" -NoNewWindow -PassThru
-        Start-Sleep -Seconds 5
-        if (-not $processInfo.HasExited) {
-            Stop-Process -Id $processInfo.Id -Force
-        }
-        
-        # Display URL directly without depending on minikube service command
+        # Get NodePort directly and display URL
         $nodePort = kubectl get service -n scd-project k8s-demo-service -o jsonpath="{.spec.ports[0].nodePort}"
-        echo "Application is available at: http://127.0.0.1:$nodePort" 
+        echo "Application is available at: http://127.0.0.1:$nodePort"
